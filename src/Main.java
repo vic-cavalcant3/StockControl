@@ -86,7 +86,6 @@ public class Main {
                     System.out.println("Opção inválida. Tente novamente.");
             }
         } while (opcao != 5);
-
         scanner.close();
 
     }
